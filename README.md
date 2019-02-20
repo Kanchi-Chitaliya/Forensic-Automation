@@ -1,7 +1,6 @@
 # Forensic-Automation
 Create a python script that- 
-HELPS TO AUTOMATE DISC FORENSICS FOR REDHAT AND DEBIAN SYSTEM
-FINDS OUT SOME BASIC INFORMATION 
-USES PYTHON MODULE SUBPROCESS TO RUN SYSTEM COMMANDS
-USES FLASK TO DISPLAY THE INFORMATION ON WEBPAGE
+Helps to automate disc forensics fro redhat and debian system and find put some basic information
+uses python module subprocess to run system commands
+uses flask to display the information on the webpage
 
